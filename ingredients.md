@@ -7,6 +7,5 @@ INGREDIENTS
 5.Rooh Afza or any added flaour if you want (It is optional) half cup
 6.Rock Salt (normal salt also ok but you will not get the same spicy flavour) 3 teaspoons
 
-IF you want to see the ingredients for it click on this link https://github.com/AdhirajDatar/Limbu-Sarbat/blob/master/ingredients.md
-
+IF you want to see the description for it click on this link https://github.com/AdhirajDatar/Limbu-Sharbat/blob/master/Readme.md
 IF you want to see the recipe for it click on this link https://github.com/AdhirajDatar/Limbu-Sarbat/blob/master/Recipe.md
